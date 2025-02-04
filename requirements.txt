@@ -1,5 +1,14 @@
 Flask
 gunicorn
+geopy
+
+folium
+random
+datetime
+
+apscheduler.schedulers.background
+
+
 
 argcomplete==3.5.3
 blinker==1.9.0
