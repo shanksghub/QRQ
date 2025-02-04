@@ -2,12 +2,10 @@ Flask
 gunicorn
 geopy
 
-folium
 random
 datetime
 
-apscheduler.schedulers.background
-
+APScheduler
 
 
 argcomplete==3.5.3
